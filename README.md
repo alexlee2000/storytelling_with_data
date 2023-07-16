@@ -4,11 +4,11 @@ This repo is to store my personal notes for "Storytelling with data - Cole nussb
 
 
 ## Contents
-Chapter 1 - the importance of context 
+chapter 1 - the importance of context
 
-Chapter 2 - choosing an effective visual
+chapter 2 - choosing an effective visual
 
-Chapter 3 - clutter is your enemy!
+chapter 3 - clutter is your enemy!
 
 chapter 4 - focus your audience's attention
 
