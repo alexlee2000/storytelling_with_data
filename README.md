@@ -4,7 +4,7 @@ This repo is to store my personal notes for "Storytelling with data - Cole nussb
 
 
 ## Contents
-chapter 1 - the importance of context <span style="color:blue">some *blue* text</span>.
+<p>chapter 1 - the importance of context <span style="color:blue">some *blue* text</span>.
 Who is your audience?, What do you need them to know or do?
 
 chapter 2 - choosing an effective visual
