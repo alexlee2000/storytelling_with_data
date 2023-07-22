@@ -5,10 +5,12 @@ This repo is to store my personal notes for "Storytelling with data - Cole nussb
 
 ## Contents
 #### chapter 1 - the importance of context
-
-*Who is your audience?, What do you need them to know or do?*
+- Who is your audience?
+- What do you need them to know or do?
 
 #### chapter 2 - choosing an effective visual
+- Most common types of visual displays
+- Visuals you should acoid like the plague
 
 #### chapter 3 - clutter is your enemy!
 
