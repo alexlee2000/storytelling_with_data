@@ -30,7 +30,7 @@ Consider,
 
 #### Mechanism (will you use to communicate) 
 - The method you use to communicate (live presentation vs email) has implications on the amount of control you will have over how the audeince takes in the information, and the level of detail that needs to be explicit.
-- In a LIVE presentation, you are in full control as you determine what the audience sees and when they see it. You can also respond to visual cues and go into a partiuclar point in more/less detail. Thus, not all of these details need to be in the slides as you are these to answer any questions that may arise as the SME.
+- In a LIVE presentation, you are in full control as you determine what the audience sees and when they see it. You can also respond to visual cues and go into a partiuclar point in more/less detail. Thus, not all of these details need to be in the slides as you are there to answer any questions come up.
 - With a written document or email, you have less control as the audience can choose how they consume the information themselves. The level of detail needed here is typically higher as you aren't there to respond to your audience's cues. Thus, the document will need to addess more of the potential questions. 
 
 
