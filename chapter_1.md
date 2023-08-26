@@ -1,4 +1,4 @@
-# The Importance of Context (sparknotes)
+# The Importance of Context
 
 ### Exploratory vs Explanatory analysis
 **Exploratory**: Understanding the data and identifying interesting points to highlight to others. (May require many iterations/hypothesis)
