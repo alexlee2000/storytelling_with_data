@@ -1,8 +1,8 @@
 # The Importance of Context
 
 ### Exploratory vs Explanatory analysis
-**Exploratory**: Understanding the data and identifying interesting points to highlight to others. (May require many iterations/hypothesis)
-**Explanatory**: Communicating the exploratory analysis to the audience by having a specific story.
+1. Exploratory: Understanding the data and identifying interesting points to highlight to others. (May require many iterations/hypothesis)
+2. Explanatory: Communicating the exploratory analysis to the audience by having a specific story.
 
 Often, we mistakenly focus on showing the exploratory analysis as evidence of the work you did and the robustness of the analysis. Resist this urge and instead, concentrate on the information that your audience needs to know. 
 
