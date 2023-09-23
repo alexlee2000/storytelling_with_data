@@ -27,4 +27,66 @@ A table is often not the best idea to use in a live presentation as you lose you
 
 
 ## 3. Heatmap
+**Usecase** 
 
+A special case of tables that helps to reduce mental processing of the audience and helps them to more quickly target the potential points of interest. 
+
+**Tip**
+
+Excel has this functionality with conditional formatting. Just make sure that when using color saturation, your are always including a legend to help the reader interpet the data.
+
+**Example**
+
+![image](https://github.com/alexlee2000/storytelling_with_data/assets/43845085/b72f998f-a312-4c24-b80a-c8074073f1a0)
+
+## 4. Graphs
+**Usecase** 
+
+... 
+
+**Tip**
+
+...
+
+**Example**
+
+...
+
+## 5. Scatterplot
+**Usecase** 
+
+... 
+
+**Tip**
+
+...
+
+**Example**
+
+...
+
+## 6. Linegraph
+**Usecase** 
+
+... 
+
+**Tip**
+
+...
+
+**Example**
+
+...
+
+## 7. Slopegraph
+**Usecase** 
+
+... 
+
+**Tip**
+
+...
+
+**Example**
+
+...
