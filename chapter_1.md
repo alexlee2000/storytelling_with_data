@@ -1,12 +1,12 @@
 # The Importance of Context
 
-### Exploratory vs Explanatory analysis
+## Exploratory vs Explanatory analysis
 1. Exploratory: Understanding the data and identifying interesting points to highlight to others. (May require many iterations/hypothesis)
 2. Explanatory: Communicating the exploratory analysis to the audience by having a specific story.
 
 Often, we mistakenly focus on showing the exploratory analysis as evidence of the work you did and the robustness of the analysis. Resist this urge and instead, concentrate on the information that your audience needs to know. 
 
-### Who, what, and How
+## Who, what, and How
 Consider, 
 1. To **whom** are you communicating? (_Who is your audience and how do they perceive you?_)
 2. **What** do you want your audience to know or do? (_How do you want your audience to act? What tone will you use?_)
@@ -55,6 +55,7 @@ Often, communications are at the request of someone else: a client, stakeholder,
 - What data is available? Where are the risks?
 - What would a successful outcome look like?
 
+## Useful Concepts
 Below are some concepts that may help to identify the single most important message: The 3 minute story & Big Idea
 
 ###  The 3-minute story
