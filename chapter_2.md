@@ -39,44 +39,40 @@ Excel has this functionality with conditional formatting. Just make sure that wh
 
 ![image](https://github.com/alexlee2000/storytelling_with_data/assets/43845085/b72f998f-a312-4c24-b80a-c8074073f1a0)
 
-## 4. Graphs
+
+## 4. Graphs/Points/Scatterplot
 **Usecase** 
 
-... 
-
-**Tip**
-
-...
+Used for showing the relationship between two things. 
 
 **Example**
 
-...
+![image](https://github.com/alexlee2000/storytelling_with_data/assets/43845085/de921203-d00f-4295-997d-708d2142b5a9)
 
-## 5. Scatterplot
+
+## 5. Graphs/Lines/Line_Graph
 **Usecase** 
 
-... 
+Used for plotting continuous data, often in some unit of time: days, months, quarters, or years. Line graphs can be used to show single or multiple series of data. 
 
 **Tip**
 
-...
+When you're graphing time on the x-axis of a line graph, make sure that the data plotted are in consistent intervals. 
 
-**Example**
 
-...
-
-## 6. Linegraph
+## 6. Graphs/Lines/Slope_Graph
 **Usecase** 
 
-... 
+Used when you have two time periods or points of comparison and want to quickly show the relative increases/decreases or differences across various attributes between two data points. Slopegraphs give you the absolute values (the points) + the visual increase or decrease in rate of change (slope direction).
 
 **Tip**
 
-...
+If many of the lines are overlapping, then a slopegraph may not work in this case. However, if you're just trying to emphasize a single series, then it could work by drawing attention to that single category that increased or decreased over time.
 
 **Example**
 
-...
+![image](https://github.com/alexlee2000/storytelling_with_data/assets/43845085/0d5ff547-cb15-4df3-b061-212c98e7e717)
+
 
 ## 7. Slopegraph
 **Usecase** 
