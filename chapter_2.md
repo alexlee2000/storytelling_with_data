@@ -74,7 +74,7 @@ If many of the lines are overlapping, then a slopegraph may not work in this cas
 ![image](https://github.com/alexlee2000/storytelling_with_data/assets/43845085/0d5ff547-cb15-4df3-b061-212c98e7e717)
 
 
-## 7. Slopegraph
+## 7. Graphs/Bars
 **Usecase** 
 
 ... 
