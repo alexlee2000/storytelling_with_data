@@ -77,12 +77,45 @@ If many of the lines are overlapping, then a slopegraph may not work in this cas
 ## 7. Graphs/Bars
 **Usecase** 
 
-... 
+Bar charts are often avoided because they are so common. Since it is so common, you should actually use it more as your audience will already be familiar with the graph. They can their brain power to focus on what the key message is in a common bar chart rather than waste capacity trying to figure out how to read a complex graph.
 
 **Tip**
 
-...
+- Bar charts must have a 'zero' baseline to ensure that we get the correct visual increase/decrease. If the bar chart starts above zero, then the visual increase is grossly misrepresented. Therefore, show the entire bar to give context to make an accurate comparison for the viewer.
+- In general, the bar width should be wider than ther white space between the bars, but also not so wide to the point where your audience compares areas instead of lengths.
+
+![image](https://github.com/alexlee2000/storytelling_with_data/assets/43845085/f2cc893d-f6e0-4ef4-8b2f-dd5b039f3168)
+
 
 **Example**
 
-...
+![image](https://github.com/alexlee2000/storytelling_with_data/assets/43845085/b4f55bbb-e0f3-4c2c-8926-87971a40774b)
+
+## 8. Graphs/Bars/Vertical_bar_chart
+**Usecase**
+
+Also known as a column chart, this can be used for single/multiple series. 
+
+**Tip**
+
+The more series of data that you add, the more difficult it is to focus on a single bar at a time to pull out insight. So, use multiple series bar charts with caution. 
+
+**Example**
+
+![image](https://github.com/alexlee2000/storytelling_with_data/assets/43845085/12379313-ede2-4e4c-8141-995485fc8a73)
+
+
+## 9. Graphs/Bars/Stacked_bar_chart
+**Usecase**
+
+Allows you to compare totals across categories and also seeing the subcomponent pieces within a given category. This can quickly become visually overwhelming. Also, it is hard to compare the subcomponents across the various categories once you go beyond the bottom series, as you no longer have a consistent baseline to use for reference. 
+
+**Tip**
+
+Put the most important subcateogy on the bottom and highlight it for visual ease.
+
+**Example**
+
+![image](https://github.com/alexlee2000/storytelling_with_data/assets/43845085/14f59223-ece9-4cb1-bf0f-aa9bee0d4d50)
+
+
