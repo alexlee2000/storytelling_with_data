@@ -119,3 +119,50 @@ Put the most important subcateogy on the bottom and highlight it for visual ease
 ![image](https://github.com/alexlee2000/storytelling_with_data/assets/43845085/14f59223-ece9-4cb1-bf0f-aa9bee0d4d50)
 
 
+## 10. Graphs/Bars/Waterfall_chart
+**Usecase**
+
+Used to pull apart the separarte sections of a stacked bar chart to highlight the incremental changes from the starting point to the end point.
+
+**Tip**
+
+If your graphing application doesn't have this chart funcionaltiy built in, you can create one leveraging the stacked bar chart and making some series invisible. 
+
+**Example**
+
+![image](https://github.com/alexlee2000/storytelling_with_data/assets/43845085/f481f665-403e-4022-a648-b7b0f405ecf5)
+
+
+## 11. Graphs/Bars/Horizontal_bar_chart
+**Usecase**
+
+Best for categorical data as it makes the category labels a lot easier to read especially when your category names are long. We generally process information starting at the top left and making Z's with our eyes across the page. The horizaontal bar chart means that your audience will read the category names before the actual data which will ensure that they already know what the data represents instead of darting back and forth with vertical bar charts. 
+
+**Tip**
+
+Be mindful about how your categories are ordered. If there is already a natural ordering to your categories (e.g. age groups), then leverage that existing order. Your audience will look at your visual starting at the top left and then zigzagging, so they will encounter the top of your graph first. If the biggest category is the most the important, then consider putting that first and ordering the rest in decreasing numerical order. Or if the smallest category is the most important, then put that at the top and order by ascending data values instead. 
+
+**Example**
+
+![image](https://github.com/alexlee2000/storytelling_with_data/assets/43845085/09af243e-b26c-4841-a421-f8c021bf41a3)
+
+
+## 12. Graphs/Bars/Stacked_horizontal_bar_chart
+**Usecase**
+
+Similar to stacked vertical bar chart - can be used to show the totals/percentages across different categories and also give a sense of the subcomponent pieces.
+
+**Example**
+
+![image](https://github.com/alexlee2000/storytelling_with_data/assets/43845085/9835b977-cfe2-437b-aad5-c1a340094ebe)
+
+
+## 13. Graphs/Area
+**Usecase**
+
+Humans eye's don't do a great job attributing quantitative values to 2D space which makes Area graphs harder to read than others. However, these become useful when you need ot visualize numbers of vastly different magnitudes. 
+
+**Example**
+
+![image](https://github.com/alexlee2000/storytelling_with_data/assets/43845085/8ea14013-1738-4e9f-a19f-471a45937c95)
+
