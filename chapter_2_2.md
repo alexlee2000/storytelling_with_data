@@ -1,4 +1,4 @@
-# Graphs
+# Choosing an Effective Visual (part 2) - Graphs
 
 ## 4. Points/Scatterplot
 **Usecase** 
