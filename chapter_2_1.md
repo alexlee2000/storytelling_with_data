@@ -1,4 +1,4 @@
-# Choosing an Effective Visual (part 1)
+# Choosing an Effective Visual (part 1) - Simple Text & Tables
 ## 1. Simple Text 
 **Usecase**
 
