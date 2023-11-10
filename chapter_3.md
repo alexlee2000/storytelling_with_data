@@ -20,7 +20,7 @@ When we see objects that are physically close in proximity, we automatically ass
 Objects of similar colour, shape, size, or orientation are perceived as belonging to a particular group. 
 ![image](https://github.com/alexlee2000/storytelling_with_data/assets/43845085/6dcab953-31e9-48c9-9b86-a03d7bbb8a71)
 
-- We can use this in tables to help draw our audience's eyes in the direction we want them to focus on. The figure below suggests the audience to read across the rows rather than down the columns, eliminating th need for additional elements such as borders to help direct attention.
+- We can use this to help draw our audience's eyes in the direction we want them to focus on.
 ![image](https://github.com/alexlee2000/storytelling_with_data/assets/43845085/10886f72-2eaa-4fef-8cf7-23c021324e6e)
 
 #### 1.3. Enclosure
