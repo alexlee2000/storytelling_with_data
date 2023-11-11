@@ -1,4 +1,4 @@
-# Clutter is your Enemy!
+# Clutter is your Enemy! (part 1) - The Gestalt Principles
 
 ## Cognitive Load
 - Every single element that you add to a blank page will take up some cognitive load on the audience.
