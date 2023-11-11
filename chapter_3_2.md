@@ -1,1 +1,13 @@
+# Clutter is your Enemy! (part 2) - Other Types of Visual Clutter
 
+## Lack of Visual Order
+...
+
+## Alignment
+...
+
+## White Space
+...
+
+## Non-Strategic Use of Contrast
+...
