@@ -1,4 +1,5 @@
 # Clutter is your Enemy! (part 2) - Other Types of Visual Clutter
+- Note that some seemingly redundant details aren't actually clutter. There are some elements that should always be retained with numbers, including dollar/percent signs, and commas in large numbers. 
 
 ## Lack of Visual Order
 
