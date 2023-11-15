@@ -1,6 +1,6 @@
 # Focus your Audience's Attention (part 3) - Graphs
 
-### Preattentive Attributes in Graphs
+### Preattentive Attributes in Graphs - Example 1
 Consider the example below...
 
 ![image](https://github.com/alexlee2000/storytelling_with_data/assets/43845085/5d7c8b60-e5c0-4258-b5df-07024bdb97ce)
@@ -15,4 +15,5 @@ Now, let's go a step further using the same visual but modifying the focus from 
 
 Repeated iterations of the same visual, with different pieces emphasized to tell different stories or different aspects of the same story (as demonstrated in the 3 figures above), can be an effective strategy. This will allow you to familiarize your audience with your data and visual first, and then continue to leverager it in the manner illustrated. 
 
-
+### Preattentive Attributes in Graphs - Example 2
+A good strategy is to start by pushing everything to the background. This forces you to make explicit decisions regarding what to bring to the forefront or highlight. Next, you generally want to make the data stand out by using color in the data series, and the labels bolder and bigger than the axis lines and labels. 
