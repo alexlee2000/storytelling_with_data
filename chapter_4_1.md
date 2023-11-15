@@ -1,4 +1,4 @@
-# Focus your Audience's Attention
+# Focus your Audience's Attention (part 1) - Memory
 
 ## Memory
 There are 3 types of memory within the brain that are important to understand when we design visual communications:
@@ -28,14 +28,6 @@ Studies show that we have about 3-8 seconds with our audience, during which time
 
 Note that your eyes are drawn to the one element within each group that is different from the rest: YOu don't have to look for it. That's because our brains are hardwired to quickly pick up differences we see in our environment. If we use preattentiev attributes strategically, we can enable our audience to see what we want them to see before they even know they're seeing it. 
 
-### Preattentive Attributes in Text
-Without any visual cues, when we are confronted with a block of text, we have no choice but to read all of itl, put on the lens of what's important or interesting, then possible read it again to put the interesting parts into context. 
-
-Now consider leveraging preattentive attributes to change the way you process the information. Each block of text employs a single preattentiev attribute each. Note how within each, the preattentive attribute grabs your attentions with varying levels of force (e.g. color/size are attention grabbing, whereas italics achieve a milder emphasis).
-
-![image](https://github.com/alexlee2000/storytelling_with_data/assets/43845085/e5aaa43d-7d70-4a3b-b83d-2f0f6cc0d48d)
-
-We can leverage preattentive attributes to create a clear visual hierarchy of information that established implicit instructions for your audience. indicating to them in what order they should process information. 
 
 ### Preattentive Attributes in Graphs
 Consider the example below...
