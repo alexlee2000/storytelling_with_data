@@ -22,6 +22,8 @@ There are 3 types of memory within the brain that are important to understand wh
 - Long-term memory is the aggregate of visual and verbal memory. Verbal is accessed by a neural net and visual is accessed with other specialized structures.
 
 ## Preattentive Attributes
+Studies show that we have about 3-8 seconds with our audience, during which time they decide whether to continue to look at what we've put in front of them or direct attention to something else. If we use the preattentive attribbuted wisely, then 3-8 seconds is enough time to give our audience the gist of what we want to say with our visual. 
+
 ![image](https://github.com/alexlee2000/storytelling_with_data/assets/43845085/eb6b77f4-5be8-439f-93f9-251661a0a42a)
 
 Note that your eyes are drawn to the one element within each group that is different from the rest: YOu don't have to look for it. That's because our brains are hardwired to quickly pick up differences we see in our environment. If we use preattentiev attributes strategically, we can enable our audience to see what we want them to see before they even know they're seeing it. 
@@ -33,6 +35,20 @@ Now consider leveraging preattentive attributes to change the way you process th
 
 ![image](https://github.com/alexlee2000/storytelling_with_data/assets/43845085/e5aaa43d-7d70-4a3b-b83d-2f0f6cc0d48d)
 
-### Preattentive Attributes in Graphs
+We can leverage preattentive attributes to create a clear visual hierarchy of information that established implicit instructions for your audience. indicating to them in what order they should process information. 
 
+### Preattentive Attributes in Graphs
+Consider the example below...
+
+![image](https://github.com/alexlee2000/storytelling_with_data/assets/43845085/5d7c8b60-e5c0-4258-b5df-07024bdb97ce)
+
+This graph has no visual cues. So, you are left to process all of the information as you aren't given cues as to what's important or should be paid attention to. Consider the modified graph below with some preattentive attributes... 
+
+![image](https://github.com/alexlee2000/storytelling_with_data/assets/43845085/15ebfe57-2068-485d-8b06-8738c05061a9)
+
+Now, let's go a step further using the same visual but modifying the focus from macro to micro parts of the story...
+
+![image](https://github.com/alexlee2000/storytelling_with_data/assets/43845085/00b849d9-09e3-4f22-abd7-8b5968c8bac7)
+
+Repeated iterations of the same visual, with different pieces emphasized to tell different stories or different aspects of the same story (as demonstrated in the 3 figures above), can be an effective strategy. This will allow you to familiarize your audience with your data and visual first, and then continue to leverager it in the manner illustrated. 
 
