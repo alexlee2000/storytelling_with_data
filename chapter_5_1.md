@@ -1,12 +1,9 @@
-# Focus your Audience's Attention (part 4) - Size, Color, Positioning
-
-Here is an easy test to determine whether preattentive attributes are being used effectively
-1. Create your visual
-2. Close your eyes or look away for a moment and then look back at it.
-3. Take note of where your eyes are drawn first (i.e. are they immediately drawn to where you want your audience to focus?)
-4. Ask a friend/colleague to talk you through how they process the visual: where their eyes go first, where they go next, and so on...
-
-## Size
-- Relative size denotes relative importance.
-- Your design choices should be the result of explicit decisions.
-- Use size to indicate importance and/or similarity.
+# Think like a designer (part 1) - Affordances
+- Form (visual) follows Function (what we want our audience to be able to do with the data).
+- Affordances: Aspectes inherent to the design that make it obvious how the produce it to be used. E.g. A knob affords turning, A button affords pushing, a cord affords pulling etc...
+- We can leverage visual affordances to indicate to our audience how to use and interact with our visualizations. We'll discuss 3 specific lessons:
+  1. Highlight the important stuff
+  2. Eliminate distractions
+  3. Create a clear hierarchy of information
+ 
+## 1. Highligh the Important Stuff
