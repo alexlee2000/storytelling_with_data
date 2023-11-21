@@ -40,4 +40,11 @@
 - Removed the "All" category as in this case it didn't really add any value
 - Decimal points were eliminated by rounding to nearest whole digit. Consider how its strange to have the number of adults using decimal places (how can you have a fraction of a person?!)
 - Italics in subtitle were changes to regular font as there was no reason to draw attention to these words. Also, the spatial separataion between the title and subtitle caused undue attention to be placed on the subtitle, so this was removed.
-- The highlighting of the "Bachelor's Degree or more" category was preserved and extended to include the category name in addition to the data labels. 
+- The highlighting of the "Bachelor's Degree or more" category was preserved and extended to include the category name in addition to the data labels.
+
+## 3. Create a clear visual hierarchy of information
+In tables and graphs, it can be useful to leverage super-categories to organize the data and help provide a construct for your audience to use and interpret. 
+- E.g. if you're looking at a table or graph that shows a value for 20 different demographic breakdowns, it can be useful to organize and clearly label the demographic breakdowns into groups or super-categories like age, race, income level, education.
+- E.g. Or, you could use quadrant labels that are large and bold if you are communicating a graph with 4 quadrants. 
+
+
