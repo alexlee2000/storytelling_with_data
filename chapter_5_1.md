@@ -35,7 +35,8 @@
 
 ### Before and After
 <img width="863" alt="Screen Shot 2023-11-21 at 10 48 17 pm" src="https://github.com/alexlee2000/storytelling_with_data/assets/43845085/43b6e0a6-b5ac-43ed-8aa4-2d8ff1f137e3">
-- Line graphs typically make it easier to see trends over time. THis also viisually reduces discrete elements from 25 bars to 4 lines. 
+
+- Line graphs typically make it easier to see trends over time. THis also viisually reduces discrete elements from 25 bars to 4 lines.
 - Removed the "All" category as in this case it didn't really add any value
 - Decimal points were eliminated by rounding to nearest whole digit. Consider how its strange to have the number of adults using decimal places (how can you have a fraction of a person?!)
 - Italics in subtitle were changes to regular font as there was no reason to draw attention to these words. Also, the spatial separataion between the title and subtitle caused undue attention to be placed on the subtitle, so this was removed.
