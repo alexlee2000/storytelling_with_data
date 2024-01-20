@@ -30,11 +30,11 @@ This repo is intended to store my personal notes for **"Storytelling with data -
   - Work to gain audience acceptance of your visual designs.
 
 **Chapter 6 - dissecting model visuals**
-  - Clear beginning (plot) --> Middle (twists) --> End (call to action).
-  - Leverage conflict and tension to grab/maintain your audience's attention.
-  - Use vertical/horizontal logic, reverse storyboarding to ensure your story comes across clearly in your communication. 
+  - Examples
 
 **Chapter 7 - lessons in storytelling**
+  - Clear beginning (plot) --> Middle (twists) --> End (call to action).
+  - Leverage conflict and tension to grab/maintain your audience's attention.
   - Horizontal logic: Do the slide titles tell the overarching story? Use action titles
   - Vertical logic: Does all the content on your page reinforce each other?
   - Reverse Storyboarding: Write down the main points of each page of your final pack. Does your reverse storyboard reflect your message?
