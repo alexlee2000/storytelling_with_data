@@ -1,6 +1,6 @@
 # storytelling_with_data
 
-This repo is to store my personal notes for "Storytelling with data - Cole nussbaumer Knaflic". 
+This repo is to store my personal notes for "Storytelling with data - Cole nussbaumer Knaflic". I recommend obtaining the book and reading it for yourself as these notes are just a summary of what I personally found interesting/important to me.
 
 
 ## Contents
