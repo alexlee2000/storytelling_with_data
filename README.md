@@ -35,3 +35,7 @@ This repo is intended to store my personal notes for **"Storytelling with data -
   - Use vertical/horizontal logic, reverse storyboarding to ensure your story comes across clearly in your communication. 
 
 **Chapter 7 - lessons in storytelling**
+  - Horizontal logic: Do the slide titles tell the overarching story? Use action titles
+  - Vertical logic: Does all the content on your page reinforce each other?
+  - Reverse Storyboarding: Write down the main points of each page of your final pack. Does your reverse storyboard reflect your message?
+  - A Fresh perspective: Ask feedback from someone who doesn't have any context.
