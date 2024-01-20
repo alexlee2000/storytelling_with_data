@@ -30,7 +30,7 @@ This repo is intended to store my personal notes for **"Storytelling with data -
   - Work to gain audience acceptance of your visual designs.
 
 **Chapter 6 - dissecting model visuals**
-  - Examples
+  - Good examples of linegraph + stacked graphs 
 
 **Chapter 7 - lessons in storytelling**
   - Clear beginning (plot) --> Middle (twists) --> End (call to action).
