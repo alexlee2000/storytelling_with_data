@@ -35,7 +35,3 @@ This repo is intended to store my personal notes for **"Storytelling with data -
   - Use vertical/horizontal logic, reverse storyboarding to ensure your story comes across clearly in your communication. 
 
 **Chapter 7 - lessons in storytelling**
-
-**Chapter 8 - pulling it all together**
-
-**Chapter 9 - case studies**
