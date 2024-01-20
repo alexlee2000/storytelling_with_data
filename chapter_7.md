@@ -11,7 +11,7 @@ One strategy is to have an excecutive summary slide up front, with each bullet c
 This tactice ensures that all the content on a given slide reinforces each other. So, the content reinforces the title and vice versa. The words reinforce the visual and vice versa. 
 
 ## Reverse Storyboarding
-Another tactic to ensure that your story is clear is by taking the final communication and writing down the main points from each page. THe resulting list should ideally look like the storyboard or outline for the story that you want to tell and if it doesn't, then you know that there are things that you can add or remove to make it so. 
+Another tactic to ensure that your story is clear is by taking the final communication and writing down the main points from each page. The resulting list should ideally look like the storyboard or outline for the story that you want to tell and if it doesn't, then you know that there are things that you can add or remove to make it so. 
 
 ## A Fresh Perspective
 This will help you see through your audience's lens. Ask a friend or colleague or someone who doesn't have any context at all to tell you what they pay attention to, what they think is important, and where do they have questions.
